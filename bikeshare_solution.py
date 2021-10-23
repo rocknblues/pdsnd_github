@@ -197,7 +197,7 @@ def raw_data(df):
 
 
 def test_all_combinations():
-    """Tests all possible combinations of each filter."""
+    """For QA. Tests all possible combinations of each filter."""
 
     print('Starting test run...\n')
     start_time = time.time()
